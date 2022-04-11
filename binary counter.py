@@ -6,9 +6,9 @@ starting with the biggest value that is less than the starting number take that 
 a 1 to that column, repeat with remaining values.
 
 
-|8|4|2|1|
-|-|-|-|-|
-|1|0|1|0|
+|dec|8|4|2|1|
+|---|-|-|-|-|
+|bin|1|0|1|0|
 
 '''
 
